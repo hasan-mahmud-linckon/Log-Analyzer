@@ -18,9 +18,11 @@ A Python tool for analyzing log files and extracting error information with CSV 
 
 ## Installation
 
-1. Clone or download this repository
+1. Clone this repository
 2. Install dependencies:
 ```bash
+git clone https://github.com/hasan-mahmud-linckon/Log-Analyzer.git
+cd Log-Analyzer
 pip install -r requirements.txt
 ```
 
