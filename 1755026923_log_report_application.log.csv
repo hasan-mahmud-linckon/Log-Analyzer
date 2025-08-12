@@ -1,0 +1,7 @@
+access_time,number_of_lines,error_lines,errors
+2025-08-13 01:28:43.317188,58,6,[2025-06-01 08:17:48] [ERROR] Payment gateway timeout after 30s for transaction TX78901234
+2025-08-13 01:28:43.317188,58,6,[2025-06-01 08:25:48] [ERROR] Insufficient disk space for file upload
+2025-08-13 01:28:43.317188,58,6,[2025-06-01 08:41:33] [ERROR] Invalid product code: PRD-404-NOTFOUND
+2025-08-13 01:28:43.317188,58,6,[2025-06-01 08:55:19] [ERROR] Failed to update product #5678 - Database constraint violation
+2025-08-13 01:28:43.317188,58,6,[2025-06-01 09:12:17] [ERROR] Analytics processing failed - Missing data for region EU-WEST
+2025-08-13 01:28:43.317188,58,6,[2025-06-01 09:30:45] [ERROR] Health check failed for service: message-queue
